@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins/Android/Blatand"]
+	path = Assets/Plugins/Android/Blatand
+	url = https://github.com/blatand-unity/blatand-android-bridge
+[submodule "Assets/Plugins/Blatand"]
+	path = Assets/Plugins/Blatand
+	url = https://github.com/blatand-unity/blatand-core
